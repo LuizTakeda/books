@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bem-vindo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "27da1ee4195d11e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c986721157c90174",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "index"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Bem-vindo"
+              "title": "Links inversos para index"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Bem-vindo"
+              "title": "Links de saída para index"
             }
           },
           {
@@ -172,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Bem-vindo"
+              "title": "Sumário de index"
             }
           }
         ]
@@ -196,11 +180,24 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f5c83a8322786cd6",
   "lastOpenFiles": [
-    "Bem-vindo.md"
+    "books/03 - Connectivity and IoT Security/Practical IoT Hacking The Definitive Guide to Attacking the Internet of Things-No Starch Press (2021).pdf",
+    "books/01 - Firmware and RTOS/Hands-On RTOS with Microcontrollers Building real-time embedded systems using FreeRTOS.pdf",
+    "books/04 - Backend and Data Scale/api-security-in-action.pdf",
+    "books/04 - Backend and Data Scale/EN-CNTNT-eBook-DesigningDistributedSystems.pdf",
+    "books/04 - Backend and Data Scale/Não confirmado 478874.crdownload",
+    "files",
+    "Bem-vindo.md",
+    "index.md",
+    "books/05 - DevOps and Infrastructure/The.DevOps.Handbook_faghatketab.ir.pdf",
+    "books/01 - Firmware and RTOS/making_embedded_systems.pdf",
+    "books/05 - DevOps and Infrastructure/Infrastructure.as.Code.2nd.Edition.Kief.Morris.OReilly.9781098114671.EBooksWorld.ir.pdf",
+    "books/01 - Firmware and RTOS/Hands-On RTOS with Microcontrollers Building real-time embedded systems using FreeRTOS, STM32 MCUs, and SEGGER debug tools by Brian Amos (z-lib.org).pdf",
+    "books/03 - Connectivity and IoT Security/Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods - Practical IoT Hacking_ The Definitive Guide to Attacking the Internet of Things-No Starch Press (2021).pdf"
   ]
 }
